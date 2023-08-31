@@ -1,6 +1,6 @@
 # playwright-java-demo
 
-O Tamplete utilizando Java, jUnit, Playwight, Allure e Faker para realizar testes web de forma simoples.
+O Tamplete utilizando Java, jUnit, Playwight, Allure e Faker para realizar testes web de forma simples.
 
 ## Recursos e Tecnologias Utilizadas
 
