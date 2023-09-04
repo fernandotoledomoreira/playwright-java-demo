@@ -20,6 +20,6 @@ O Tamplete utilizando Java, jUnit, Playwight, Allure e Faker para realizar teste
 
 ## Execução
 
-Utilizando os players do prórpio VSCODE
+Utilizando os players do próprio VSCODE
 
 ![descrição da imagem](execution.png)
